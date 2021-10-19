@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 224247031146467e0b0809210430103124273f6a092e20352e3d0e7cc6e53937adc604d9c01e3a313653be721130082beb
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 224247031146467e0b0809210430103124273f6a092e20352e3d0e7cc6e53937adc604d9c01e3a313653bd721130082beb
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 224247031146467e0b0809210430103124273f6a092e20352e3d0e7cc6e53937adc604d9c01e3a313653bc721130082beb
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 224247031146467e0b080921043010381901146a1f3c333424265212cdc57415e3e03feaa7292f39350efc7c32310d71a3452d0efb044a2a3e2bbd1d1af61c1f028a3cc017c75f3de43c5cddc614ddefc698c1e4d1fffe
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 22424703114646680e0b0227036c6c111b07142f1f2b233e2867083debf42d
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 2242470311464668190f1e3615317e0305120c39631c2e393f2d2d36f0f33b36c1e838fdf53533303c10a00f073b0f3ae1453907f7120d191e1bf30a5fea1e1a05dc
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 22424703114646550c070f2a192f5e125931192e2905273e2c2e1821add33535f2eb33a6d43b322c3507dc3f01300471e704001fef
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 22424703114646680e0b02275f1756041a12563f22213229
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 22424703114646680e0b0227036c6f1c170e1f38233d2834633c133af6f9
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 22424703114646680e0b0227036c6b19021b1d6439262f2434
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
